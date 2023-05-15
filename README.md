@@ -1,7 +1,5 @@
 # SVD-examples
-Some MATLAB code 
-
-intended to show off some applications of the singular value decomposition (SVD).
+Some MATLAB code intended to show off some applications of the singular value decomposition (SVD).
 
 pcaEX.m transforms some (fabricated) two-dimensional data to plot it along the principal components
 
